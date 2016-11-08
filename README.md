@@ -1,0 +1,2 @@
+# Android_Session20_Assignment1
+Accelerometer
